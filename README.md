@@ -1,0 +1,4 @@
+StringsToEqs
+============
+
+Console App
